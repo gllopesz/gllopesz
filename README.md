@@ -15,7 +15,7 @@ I enjoy tackling complex problems and challenging projects, especially when they
 
 #### Frameworks
 [![SPRING](https://img.shields.io/badge/spring-000000?style=for-the-badge&logo=spring&logoColor=white)]()
-[![Hibernate JPA](https://img.shields.io/badge/Hibernate%20%2F%20JPA-000000?style=for-the-badge&logo=hibernate&logoColor=white)]()
+[![JPA](https://img.shields.io/badge/JPA-000000?style=for-the-badge&logo=hibernate&logoColor=white)]()
 
 #### Tools
 [![GIT](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)]()
